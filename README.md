@@ -1,4 +1,9 @@
 # IPA IDM Scripts
+                     
+
+
+
+
 
 This repository contains various scripts for managing users and groups in an Identity Management (IDM) system using IPA commands. Below is a brief description of each script and its purpose.
 
